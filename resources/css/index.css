@@ -1,0 +1,71 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: 'Perfectly Nineties Regular;'
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+    font-family: 'Perfectly Nineties Regular;'
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #a4c3b2;
+}
+
+.banner {
+    background-color: #a4c3b2;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 28px;
+    font-family: 'Perfectly Nineties Regular;'
+}
+
+#small-sophia {
+height: 200px;
+width: 200px;
+filter: drop-shadow(1px 1px 1px black);
+}
+
+.swann-section {
+    padding: 20px 50px;
+}
+
+#swann {
+    color:#a4c3b2;
+    font-size: 50px;
+}
+
+#greets ul{
+    list-style-type: none;
+}
+
+.avatar {
+    background-image: url('../images/Sophia.jpg');
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.bold {
+    font-weight: 900;
+}
+
+a.green {
+    color: #a4c3b2;
+}
+
+* {
+  font-family:'Perfectly Nineties Regular';
+}
+
